@@ -1,4 +1,4 @@
-{Пример:
+{
 name: Run Python Script
 
 on: [push]
